@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Ou as minhas cores favoritas</title>
+</head>
+  
+<body>
+    <h1>20 coisas que eu gosto em você</h1>
+  
+  <html>
+
+<head>
+    <title>preto como a sola do teu pé</title>
+</head>
+
+<body>
+      <h3>Posso tentar explicar de N maneiras esse tópico, mas vou falhar mediocremente, pois mesmo sendo escritora e estudando comunicação, falho em me expressar plenamente quando preciso dizer o que sinto. Mas, como sou melhor escrevendo do que falando, certamente isso vai ser melhor do que qualquer coisa que eu poderia dizer pessoalmente. E quem sabe agora aquele 20 da playlist que eu criei no Spotify tenha algum sentido. </h3>
+  <h6>OBS: Meu teclado reesolveu ficar sem digitar acentos, e qualquer motivo aparente se encontra longe demais do meu escopo de entendimento. Foi complicado tanto digitar essa pequena nota buscando termos sem o uso de acentos quanto utilizar a ferramenta do word que corrige palavras para inserir as fezes que chamamos de acento em nosso idioma.</h6>
+  
+    <ul id="topicList">
+        <li>Como você se empenha em me explicar coisas sobre as quais não entendo nada. Por vezes eu esqueço de prestar atenção porque fico te admirando enquanto fala das coisas que gosta, e por isso pode ser que, se me perguntar o que acabou de falar, eu não vou saber dizer, e peço desculpas por isso, culpe o jeito como os teus olhos brilham quando se concentram em algo. Nesses momentos eles são o meu tom de verde favorito, e me dão vontade de procurar entender sobre as coisas que os cativam, só pra, em algum momento, eles brilharem do mesmo jeito olhando pra mim. Não haveria qualquer outra razão para eu me encontrar digitando um site em HTML sem entender um caralho de programação em uma noite de domingo.</li>
+        <li>Tópico 2</li>
+        <li>Tópico 3</li>
+    </ul>
+
+ 
+    </script>
+</body>
+
+</html>
